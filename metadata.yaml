@@ -1,0 +1,35 @@
+_repo: The-Temple-of-Earth_68658
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anderson, Poul
+    aliases:
+    - Karageorge, Michael
+    - Anderson, Poul William
+    - Sanders, Winston P.
+    - Saunders, Winston P.
+    - Craig, A. A.
+    - Craig, A.A.
+    birthdate: 1926
+    deathdate: 2001
+    gutenberg_agent_id: '25203'
+    url: http://www.gutenberg.org/2009/agents/25203
+    wikipedia: https://en.wikipedia.org/wiki/Poul_Anderson
+description: ''
+gutenberg_issued: '2022-07-31'
+identifiers:
+  gutenberg: '68658'
+language: en
+pgterms:marc905: 20220526172437anderson
+pgterms:marc906: '1953'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: United States :Space Publications, Inc.,1953.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Temple of Earth
+url: http://www.gutenberg.org/ebooks/68658
